@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "261520227123",
+    "firebase_url": "https://klokdb-bc43e.firebaseio.com",
+    "project_id": "klokdb-bc43e",
+    "storage_bucket": "klokdb-bc43e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261520227123:android:f927404b3a42de27",
+        "android_client_info": {
+          "package_name": "com.tugasakhir.klok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261520227123-0glre8q68upamrl4b6c1n87kbeqaooif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWK8boamanWw0PLEW40mOmMLTW3iPbF7U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
